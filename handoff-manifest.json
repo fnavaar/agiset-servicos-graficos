@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "adapta-cliente-handoff/v1",
+  "phase": 1,
+  "versions": {
+    "package": "0.1.0",
+    "adapta": "0.7.0",
+    "adaptaCliente": "0.2.0"
+  },
+  "generatedAt": "2026-08-21T18:31:51.382Z",
+  "files": [
+    {
+      "path": "04_fase-atual/README.md",
+      "sha256": "57843f15414253dfbcc46b12fc0860f4aa0481fefdd8440eca68b80a3663f4cc",
+      "classification": "template-publico"
+    },
+    {
+      "path": "04_fase-atual/fase.md",
+      "sha256": "687bd3607bb04e82c71792e2bce49e0847f5bb438c75ac7332708f9ca469cb5c",
+      "classification": "fase-atual"
+    },
+    {
+      "path": "04_fase-atual/specs/spec-f1-001-registro-e-retomada.md",
+      "sha256": "68a5740315fb0a3333a0b293b4309e30b0546abac57ec51f1f14108132dd0ad8",
+      "classification": "spec-fase-atual"
+    },
+    {
+      "path": "04_fase-atual/specs/spec-f1-002-grade-e-publicacao-controlada.md",
+      "sha256": "1664a3028c35719b48068e1c22c154424710bbd9cc213ae816a82d9626b4356f",
+      "classification": "spec-fase-atual"
+    },
+    {
+      "path": "04_fase-atual/specs/spec-f1-003-fila-de-excecao.md",
+      "sha256": "59eb8fa39ce122716baf0ad3a9ead85362c467a2236567ac63cee5ca42b00c3b",
+      "classification": "spec-fase-atual"
+    }
+  ]
+}
