@@ -7,4 +7,4 @@
 
 ## Registro
 
-- 2026-08-21 · [Consultoria Adapta] · Workspace local criado; Fase 1 e suas três SPECs foram liberadas para execução controlada. Nenhum repositório remoto foi criado ou publicado.
+- 2026-08-21 · [Consultoria Adapta] · Repositório público criado e publicado em https://github.com/fnavaar/agiset-servicos-graficos; contém somente o handoff validado da Fase 1 para execução controlada.

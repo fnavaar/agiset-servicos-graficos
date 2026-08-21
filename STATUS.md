@@ -8,6 +8,7 @@
 - **Fase atual:** 1 — Portal central e grade controlada · aberta em 2026-08-21 · reunião de fechamento a agendar após as evidências da fase.
 - **Objetivo desta fase:** demonstrar uma solicitação identificada, um catálogo limitado por versão e uma exceção rastreável, sem cotação automática.
 - **No prazo?** Em acompanhamento — execução ainda não iniciada.
+- **Repositório:** https://github.com/fnavaar/agiset-servicos-graficos (público).
 
 ## Progresso da fase
 
